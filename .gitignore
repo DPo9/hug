@@ -1,0 +1,14 @@
+*.log
+pids
+*.pid
+*.seed
+*sublime*
+lib-cov
+coverage
+.grunt
+.lock-wscript
+build/Release
+node_modules
+.cmd_history
+.cmd_history/*
+
